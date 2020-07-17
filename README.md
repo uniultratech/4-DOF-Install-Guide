@@ -22,3 +22,8 @@ Assemble the servo braket with the base like the following image. ***Notice*** t
 Next, find a servo and 4 sets of screws with the corresponding nuts and washers(washers are needed because the holes for servos are bigger than the heads of the screws)
 
 ![alt text](https://user-images.githubusercontent.com/68445659/87828913-d8d55100-c832-11ea-9402-1a4518a844bd.jpg)
+
+Assemble the servo onto the braket using the nuts and screws. The holes are on the side, make sure you double check the orientation of the servo. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87828938-e12d8c00-c832-11ea-9ab7-c189bf006dc4.jpg)
+

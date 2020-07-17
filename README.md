@@ -64,4 +64,23 @@ Next take out another servo bracket along with the 90 degree piece mount for our
 
 ![alt text](https://user-images.githubusercontent.com/68445659/87836497-26f35000-c845-11ea-89b2-8a663eb87cda.png)
 
+Next assemble the servo bracket to the arm piece using the 1 screw the bearing and the nut. See the image for the orientation. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834739-fc52c880-c83f-11ea-9927-f07acd9bdaae.jpg)
+
+Then, let's assemble the angle pieces onto the servo bracket using the 4 screw sets with nuts. See the two images below for the orientation. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834741-fceb5f00-c83f-11ea-8554-3460553ee592.jpg)
+![alt text](https://user-images.githubusercontent.com/68445659/87834744-fceb5f00-c83f-11ea-8bca-09ce08afb0e3.jpg)
+
+Next, put the servo turning plate onto the servo and place the servo into the bracket like the image (Do not screw any screws for servo yet, just place it in there like the graph. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834745-fd83f580-c83f-11ea-953e-36ef4063ec5a.png)
+
+
+
+
+
+
+
 

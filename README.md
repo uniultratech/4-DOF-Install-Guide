@@ -52,7 +52,9 @@ Then, you want to assemble the servo onto the servo braket. Notice the servo ore
 
 ![alt text](https://user-images.githubusercontent.com/68445659/87834734-fbba3200-c83f-11ea-8fe9-e0dc3d11e598.jpg)
 
+Take out the other arm piece from your kit and 4 sets of screws with nuts. 
 
+![alt text](https://user-images.githubusercontent.com/68445659/87834736-fbba3200-c83f-11ea-964e-23e10db84a5e.jpg)
 
 
 

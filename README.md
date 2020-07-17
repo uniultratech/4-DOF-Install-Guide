@@ -105,7 +105,7 @@ Screw in the 4 screw with washers through the shoulders of the servo onto the fo
 Now we are done with assembling the claw, looking at the bottom of the claw we have two holes for screws, you can asseble them with 2 sets of nuts and screws onto the 90 degree piece we previously assembled onto the arm. 
 
 ## Finishing UP:
-![alt text](www.uniultratech.com/images/4DOF.png)
+![alt text](http://www.uniultratech.com/images/4DOF.png)
 
 Congrats! the assembling process is finished. Remember, this is not the only way of assembling this arm. You can be creative and DIY it however you want! 
 

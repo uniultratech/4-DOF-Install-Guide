@@ -1,5 +1,5 @@
 # 4-DOF-Install-Guide
-The 4 DOF Robot arm is a professional project, the installation does require some patience and familarity with using tools. This is also a DIY project, there are many different ways you can assemble this project, this guide is just the standard way, you don't have to follow this guide if you have your own ideas. However, if you do decide to follow the guide, please make sure that you read this install guide thoroughly and follow step by step. If you have any queries about the installation, feel free to contact us at http://www.uniultratech.com/contact.
+The 4 DOF Robot arm is a professional project, the installation does require some patience and familarity with using tools. This is also a DIY project, there are many different ways you can assemble this project, this guide is just the standard way, you don't have to follow this guide if you have your own ideas. However, if you do decide to follow the guide, please make sure that you read this install guide thoroughly and follow step by step. If you have any queries about the installation, feel free to contact us at www.uniultratech.com/contact.
 
 ## Step 1: Install the base
 First look for the two base pieces and 2 sets of screws with the corresponding nuts. (although there are many holes to put screws in, two sets is enough in securing the base. You can choose to add more later). 
@@ -77,8 +77,41 @@ Next, put the servo turning plate onto the servo and place the servo into the br
 
 ![alt text](https://user-images.githubusercontent.com/68445659/87834745-fd83f580-c83f-11ea-953e-36ef4063ec5a.png)
 
+Then screw in the 4 screws through the 4 holes of the arm piece into the 4 holes from the servo turning plate. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834747-fe1c8c00-c83f-11ea-89b3-37d41a17b65d.png)
+
+Last part is to screw in a big head screw in the center of the servo, and the set of 4 screws with nuts and washers into the shoulder holes of the servo onto the bracket. 
+
+### Step 3: Assemble the Claw
+
+Take out the claw piece, 1 servo, 1 servo turning plate, and 6 screws. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834715-f8bf4180-c83f-11ea-95c0-590e2fd661f3.jpg)
+
+Place the servo turning plate on the turning part of the claw, make sure you leave the part that connects the servo facing up so that we can assemble the servo onto it. See image for the orientation: 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834717-f957d800-c83f-11ea-876e-f457e657e2f8.jpg)
 
 
+Next, put the servo onto the four stands supporting servo, make sure your servo turning plate is attached to the servo head. See below images for orientation. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834718-f957d800-c83f-11ea-8e8d-7ee37d8a3c4f.jpg)
+
+Screw in the 4 screw with washers through the shoulders of the servo onto the four stands.
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834723-f9f06e80-c83f-11ea-9975-64f4ee199b65.jpg)
+
+Now we are done with assembling the claw, looking at the bottom of the claw we have two holes for screws, you can asseble them with 2 sets of nuts and screws onto the 90 degree piece we previously assembled onto the arm. 
+
+## Finishing UP:
+![alt text](www.uniultratech.com/images/4DOF.png)
+
+Congrats! the assembling process is finished. Remember, this is not the only way of assembling this arm. You can be creative and DIY it however you want! 
+
+FOR MORE PRODUCTS, visit: www.uniultratech.com/shop 
+
+Happy Making!
 
 
 

@@ -36,5 +36,23 @@ Next, take a big head screw provided in the bag of the servo, and screw it throu
 
 ![alt text](https://user-images.githubusercontent.com/68445659/87834727-fa890500-c83f-11ea-96f7-5087fc473576.jpg)
 
+Take the bearing and put it through the big hole of at either the side of the arm piece. Also put a screw through one of the center holes from your servo braket like the graph
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834729-fb219b80-c83f-11ea-9593-37b72c5f60dc.jpg)
+
+Then assemble the arm piece to the servo bracket by putting the screw through the bearing like how the graph is showing. Take a nut and screw it onto the screw. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834732-fb219b80-c83f-11ea-87f6-335f6a38c6d4.jpg)
+
+Now we are going to assemble the second servo onto the servo bracket. Take out a servo and 4 sets of screws with washers and nuts. A 4 holes servo turning plate and another 4 screws for the servo turning plate. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834733-fb219b80-c83f-11ea-98e9-81adb5ac6290.jpg)
+
+Then, you want to assemble the servo onto the servo braket. Notice the servo oreintation on the graph. Assemble the other side of the arm piece onto the servo turning plate, and screw the servo turning plate onto the servo. Now you need a big head servo turning plate screw like indicating in the graph. Screw that screw through the center of the servo turning plate into the turning hole of the servo. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834734-fbba3200-c83f-11ea-8fe9-e0dc3d11e598.jpg)
+
+
+
 
 

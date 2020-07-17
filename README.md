@@ -56,5 +56,12 @@ Take out the other arm piece from your kit and 4 sets of screws with nuts.
 
 ![alt text](https://user-images.githubusercontent.com/68445659/87834736-fbba3200-c83f-11ea-964e-23e10db84a5e.jpg)
 
+Assemble the two arm pieces head to head or (tail to tail if that is the way we want to call it) using the 4 screw sets that we took out like the picture below. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834737-fc52c880-c83f-11ea-9f31-d6277dd43c78.jpg)
+
+Next take out another servo bracket along with the 90 degree piece mount for our claw. 4 sets of screws with nuts, 4 screws, and 1 screw with a bearing and a nut. (Sorry for the bad Photoshop, lol)
+
+![alt text](https://user-images.githubusercontent.com/68445659/87836497-26f35000-c845-11ea-89b2-8a663eb87cda.png)
 
 

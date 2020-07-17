@@ -11,19 +11,30 @@ Assemble the two screws with the base parts.
 
 ![alt text](https://user-images.githubusercontent.com/68445659/87828906-d7a42400-c832-11ea-85e5-f2c067135f3c.jpg)
 
-Next, find a server bracket and 4 sets of appropriate screws witht he corresponding nuts. This step is to secure the servo braket in the base before the next part of the installation. 
+Next, find a server bracket and 4 sets of appropriate screws witht he corresponding nuts. This step is to secure the servo bracket in the base before the next part of the installation. 
 
 ![alt text](https://user-images.githubusercontent.com/68445659/87828910-d83cba80-c832-11ea-842a-64b211d4ba5b.jpg)
 
-Assemble the servo braket with the base like the following image. ***Notice*** the Direction of the servo braket is very important. 
+Assemble the servo bracket with the base like the following image. ***Notice*** the Direction of the servo bracket is very important. 
 
 ![alt text](https://user-images.githubusercontent.com/68445659/87828911-d8d55100-c832-11ea-845a-f26b45de11d6.jpg)
 
-Next, find a servo and 4 sets of screws with the corresponding nuts and washers(washers are needed because the holes for servos are bigger than the heads of the screws)
+Next, find a servo and 4 sets of screws with the corresponding nuts and washers(washers are needed because the holes for servos are bigger than the heads of the screws) You will also need 4 other individual screws to assemble the turning plate for the servo.(You can't find the correct 4 holes turning plate along with the servo bag. The turning plate of the server is provided in a separate bag along with some screws. They might be silver, but the graph we use has black turning plates)
 
 ![alt text](https://user-images.githubusercontent.com/68445659/87828913-d8d55100-c832-11ea-9402-1a4518a844bd.jpg)
 
-Assemble the servo onto the braket using the nuts and screws. The holes are on the side, make sure you double check the orientation of the servo. 
+Assemble the servo onto the bracket using the nuts and screws. The holes are on the side, make sure you double check the orientation of the servo. 
 
 ![alt text](https://user-images.githubusercontent.com/68445659/87828938-e12d8c00-c832-11ea-9ab7-c189bf006dc4.jpg)
+
+## Step 2: Assemble the Arm
+Take your prepared server mount and assemble it onto your server. Take another servo bracket, use the 4 screws we prepared previously to mount that bracket onto the base servo. Make sure the orientation of the bracket looks like the following. (***NOTICE:*** you might need to turn your servo around to make sure that it can successfuly turn to the range you want it to. Feel free to adjust degree of the servo and than assemble the bracket on top.)
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834726-fa890500-c83f-11ea-9d5e-8935e4d12d91.jpg)
+
+Next, take a big head screw provided in the bag of the servo, and screw it through the center of the servo. Also take out one of the arm pieces with one set of screw along with nuts and a bearing. 
+
+![alt text](https://user-images.githubusercontent.com/68445659/87834727-fa890500-c83f-11ea-96f7-5087fc473576.jpg)
+
+
 
